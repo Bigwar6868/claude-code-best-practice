@@ -91,7 +91,13 @@
     "firecrawl@claude-plugins-official": true,
     "playwright@claude-plugins-official": true,
     "serena@claude-plugins-official": true,
-    "semgrep@claude-plugins-official": true
+    "semgrep@claude-plugins-official": true,
+    "coderabbit@claude-plugins-official": true,
+    "sonatype-guide@claude-plugins-official": true,
+    "hookify@claude-plugins-official": true,
+    "claude-md-management@claude-plugins-official": true,
+    "mintlify@claude-plugins-official": true,
+    "feature-dev@claude-plugins-official": true
   },
   "extraKnownMarketplaces": {
     "claude-plugins-official": {
