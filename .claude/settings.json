@@ -77,6 +77,18 @@
     "CLAUDE_AUTOCOMPACT_PCT_OVERRIDE": "80"
   },
   "enableAllProjectMcpServers": true,
+  "enabledPlugins": {
+    "commit-commands@claude-plugins-official": true,
+    "pr-review-toolkit@claude-plugins-official": true,
+    "code-review@claude-plugins-official": true,
+    "code-simplifier@claude-plugins-official": true,
+    "security-guidance@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true,
+    "plugin-dev@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "playground@claude-plugins-official": true
+  },
   "extraKnownMarketplaces": {
     "claude-plugins-official": {
       "source": {
