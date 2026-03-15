@@ -87,7 +87,11 @@
     "plugin-dev@claude-plugins-official": true,
     "context7@claude-plugins-official": true,
     "github@claude-plugins-official": true,
-    "playground@claude-plugins-official": true
+    "playground@claude-plugins-official": true,
+    "firecrawl@claude-plugins-official": true,
+    "playwright@claude-plugins-official": true,
+    "serena@claude-plugins-official": true,
+    "semgrep@claude-plugins-official": true
   },
   "extraKnownMarketplaces": {
     "claude-plugins-official": {
@@ -100,6 +104,18 @@
       "source": {
         "source": "github",
         "repo": "obra/superpowers"
+      }
+    },
+    "superpowers-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers-marketplace"
+      }
+    },
+    "claude-equity-research": {
+      "source": {
+        "source": "github",
+        "repo": "quant-sentiment-ai/claude-equity-research"
       }
     }
   },
